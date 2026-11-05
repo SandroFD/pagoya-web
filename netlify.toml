@@ -15,8 +15,7 @@
 # ─────────────────────────────────────────────────────────────
 [[redirects]]
   from = "/api/*"
-  to = "https://pagoya-api-5q7k.onrender.com/api/:splat"
-  status = 200
+  to = "https://pagoya-api-886u.onrender.com/api/:splat"  status = 200
   force = true
 
 # Fallback SPA: cualquier ruta no-archivo sirve index.html
